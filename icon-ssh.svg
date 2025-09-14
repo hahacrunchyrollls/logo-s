@@ -10,7 +10,7 @@
             fill="none" stroke="#000" stroke-width="28"
             stroke-linecap="round" stroke-linejoin="round"/>
   <!-- terminal prompt: '_' -->
-  <line x1="260" y1="200" x2="360" y2="200"
+  <line x1="260" y1="230" x2="360" y2="230"
         stroke="#000" stroke-width="28" stroke-linecap="round"/>
   <!-- SSH label centered below -->
   <text x="256" y="380" text-anchor="middle" fill="#000"
