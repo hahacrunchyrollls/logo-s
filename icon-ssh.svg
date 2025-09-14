@@ -1,0 +1,19 @@
+<!-- filepath: untitled:Untitled-4 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- rounded square background with thick black border -->
+  <rect x="12" y="12" width="488" height="488" rx="56" ry="56"
+        fill="#93f0b0" stroke="#000" stroke-width="24"/>
+  <!-- small top-center notch (black semicircle visual) -->
+  <circle cx="256" cy="18" r="14" fill="#000"/>
+  <!-- terminal prompt: '>' -->
+  <polyline points="140,150 220,200 140,250"
+            fill="none" stroke="#000" stroke-width="28"
+            stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- terminal prompt: '_' -->
+  <line x1="260" y1="200" x2="360" y2="200"
+        stroke="#000" stroke-width="28" stroke-linecap="round"/>
+  <!-- SSH label centered below -->
+  <text x="256" y="380" text-anchor="middle" fill="#000"
+        font-family="Arial Rounded MT Bold, Helvetica, Arial, sans-serif"
+        font-weight="700" font-size="120" letter-spacing="6">SSH</text>
+</svg>
